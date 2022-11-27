@@ -6,4 +6,4 @@ For black and white images this involves 'blurring' the image and then using a s
 blurred imaged from the top to the bottom and then removing it. In the end you get the ability to squish images while still understanding what they
 were originally supposed to look like. 
 
-A demo of this can be seen [here]( https://youtu.be/A41-hvTziC0)
+A demo of this can be seen [here]( https://youtu.be/Vifk0Jgp5Qk)
